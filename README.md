@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Olá, sou o Diogo Ferreira 👋</h1>
-  <h3>Engenheiro Informático em Formação @ UPT | Sistemas, Redes & Backend</h3>
+  <h1>Hi, I'm Diogo Ferreira 👋</h1>
+  <h3>Computer Engineering Student @ UPT | Systems, Networks & Backend</h3>
 </div>
 
 <div align="center">
@@ -8,16 +8,16 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-Estudante do 2º ano de Engenharia Informática na Universidade Portucalense, com foco em desenhar arquiteturas sólidas, resolver problemas complexos de redes e otimizar processos de negócio através de software. Valorizo código limpo, sistemas escaláveis e execução rigorosa — e estou sempre à procura de novos desafios técnicos para aprender e crescer.
+2nd-year Computer Engineering student at Universidade Portucalense, focused on designing solid architectures, solving complex networking problems, and optimizing business processes through software. I value clean code, scalable systems, and rigorous execution — and I'm always looking for new technical challenges to learn and grow from.
 
-- 🎓 A estudar Engenharia Informática na Universidade Portucalense
-- 🔭 Focado em sistemas distribuídos, redes e desenvolvimento backend
-- 🌱 A aprofundar conhecimentos em Java, POO e arquiteturas cliente/servidor
-- 💬 Aberto a falar sobre engenharia de software, sistemas e projetos académicos
+- 🎓 Studying Computer Engineering at Universidade Portucalense
+- 🔭 Focused on distributed systems, networking, and backend development
+- 🌱 Deepening my knowledge of Java, OOP, and client/server architectures
+- 💬 Open to talking about software engineering, systems, and academic projects
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -28,30 +28,29 @@ Estudante do 2º ano de Engenharia Informática na Universidade Portucalense, co
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## 💻 Projetos em Destaque
+## 💻 Featured Projects
 
-### 🔗 Sistema Distribuído de Partilha de Ficheiros
-**Tecnologia:** Java · Sockets UDP/TDP
+### 🔗 Distributed File-Sharing System
+**Tech:** Java · UDP/TCP Sockets
 
-Sistema cliente/servidor multithereaded para comunicação por rede, com mensagens publicas e privadas, transferências de ficheiros e descoberta automática de servidores via UDP Broadcast. Gere múltiplas ligações simultâneas através de ExecutorService, com validações de segurança (proteção contra Path Traversal) e encerramento automático de sessões inativas.
+Multithreaded client/server system for network communication, featuring public and private messaging, file transfers, and automatic server discovery via UDP Broadcast. Manages multiple simultaneous connections through ExecutorService, with security validations (Path Traversal protection) and automatic closing of inactive sessions.
 
-[Ver código fonte →](https://github.com/AStojo/ProjetoDeRedes)
+[View source code →](https://github.com/AStojo/ProjetoDeRedes)
 
-### 🔗 Motor de Gestão e Atendimento do Bar
-**Tecnologia:** Java · Programação Orientada a Objetos & Sistemas de Informação
+### 🔗 Bar Management & Service Engine
+**Tech:** Java · Object-Oriented Programming & Information Systems
 
-Sistema completo de gestão para bares, desenvolvido segundo a metodologia SCRUM e assente em boas práticas de POO (modularidade, coesão e encapsulamento). Permite gerir funcionários, produtos e stock, registar pedidos e pré-reservas, e processar pagamentos e multas - digitalizando processos manuais e eliminando gargalos operacionais.
+Complete management system for bars, developed using the SCRUM methodology and built on OOP best practices (modularity, cohesion, and encapsulation). Allows managing employees, products, and stock, recording orders and pre-reservations, and processing payments and fines — digitizing manual processes and eliminating operational bottlenecks.
 
+[View source code →](https://github.com/acpsoutto/Proj26E3)
 
-[Ver código fonte →](https://github.com/acpsoutto/Proj26E3)
+## 🚧 Currently Building
 
-## 🚧 Atualmente a Construir
-
-**Sistema de Gestão de Oficina Automóvel (AutoManage recorrendo a API Rest & JavaFX)** — Criação de um sistema de informação para apoiar o desenvolvimento diário de uma oficina automóvel. *Lançamento previsto: final do semestre.*
+**Auto Repair Shop Management System (AutoManage using REST API & JavaFX)** — Building an information system to support the day-to-day operations of an auto repair shop. *Expected release: end of semester.*
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo-ferreira-862030438/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
