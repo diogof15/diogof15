@@ -31,16 +31,17 @@ Estudante do 2º ano de Engenharia Informática na Universidade Portucalense, co
 ## 💻 Projetos em Destaque
 
 ### 🔗 Sistema Distribuído de Partilha de Ficheiros
-**Tecnologia:** Java
+**Tecnologia:** Java · Sockets UDP/TDP
 
-Arquitetura Cliente/Servidor robusta para comunicação em rede, com transferência de dados e sincronização implementadas através de Sockets e multithreading.
+Sistema cliente/servidor multithereaded para comunicação por rede, com mensagens publicas e privadas, transferências de ficheiros e descoberta automática de servidores via UDP Broadcast. Gere múltiplas ligações simultâneas através de ExecutorService, com validações de segurança (proteção contra Path Traversal) e encerramento automático de sessões inativas.
 
 [Ver código fonte →](https://github.com/AStojo/ProjetoDeRedes)
 
-### 🔗 Motor de Otimização para Gestão de Bar
+### 🔗 Motor de Gestão e Atendimento do Bar
 **Tecnologia:** Java · Programação Orientada a Objetos & Sistemas de Informação
 
-Modelação de um Sistema de Informação que digitaliza e acelera os processos de inventário e atendimento de um bar tradicional, eliminando gargalos de ineficiência operacional.
+Sistema completo de gestão para bares, desenvolvido segundo a metodologia SCRUM e assente em boas práticas de POO (modularidade, coesão e encapsulamento). Permite gerir funcionários, produtos e stock, registar pedidos e pré-reservas, e processar pagamentos e multas - digitalizando processos manuais e eliminando gargalos operacionais.
+
 
 [Ver código fonte →](https://github.com/acpsoutto/Proj26E3)
 
