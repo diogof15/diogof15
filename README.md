@@ -53,6 +53,6 @@ Modelação de um Sistema de Informação que digitaliza e acelera os processos 
 ## 📬 Contacto
 
 <div align="center">
-  <a href="INSERE_O_TEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:INSERE_O_TEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/diogo-ferreira-862030438/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:f.diogo.eng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
