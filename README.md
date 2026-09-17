@@ -51,9 +51,19 @@ Complete management system for bars, developed using the SCRUM methodology and b
 
 ---
 
-## 📬 Contact
+## 📬 Get In Touch
+
+Interested in collaborating, discussing a project, or just want to talk tech? Feel free to reach out — I'm always happy to connect.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diogo-ferreira-862030438/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:f.diogo.eng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/diogo-ferreira-862030438/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:f.diogo.eng@gmail.com">
+    <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>📍 Based in Porto, Portugal — open to remote opportunities and academic collaborations</sub>
 </div>
