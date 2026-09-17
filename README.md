@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, sou o Diogo Ferreira 👋</h1>
-  <h3>Engenheiro de Software em Formação @ UPT | Sistemas, Redes & Backend</h3>
+  <h3>Engenheiro Informático em Formação @ UPT | Sistemas, Redes & Backend</h3>
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@ Arquitetura Cliente/Servidor robusta para comunicação em rede, com transferên
 [Ver código fonte →](https://github.com/AStojo/ProjetoDeRedes)
 
 ### 🔗 Motor de Otimização para Gestão de Bar
-**Tecnologia:** Java · Programação Orientada a Objetos · Sistemas de Informação
+**Tecnologia:** Java · Programação Orientada a Objetos & Sistemas de Informação
 
 Modelação de um Sistema de Informação que digitaliza e acelera os processos de inventário e atendimento de um bar tradicional, eliminando gargalos de ineficiência operacional.
 
@@ -46,7 +46,7 @@ Modelação de um Sistema de Informação que digitaliza e acelera os processos 
 
 ## 🚧 Atualmente a Construir
 
-**Sistema de Gestão Automóvel (JavaFX)** — Aplicação de gestão mecânica com interface gráfica nativa para controlo de operações. *Lançamento previsto: final do semestre.*
+**Sistema de Gestão de Oficina Automóvel (AutoManage recorrendo a API Rest & JavaFX)** — Criação de um sistema de informação para apoiar o desenvolvimento diário de uma oficina automóvel. *Lançamento previsto: final do semestre.*
 
 ---
 
